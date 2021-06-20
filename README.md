@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eZyTeZy
 - 👀 I’m interested in discord bots
-- 🌱 I’m currently learning pyhton and C
+- 🌱 I’m currently learning python and C
 
 <!---
 eZyTeZy/eZyTeZy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
